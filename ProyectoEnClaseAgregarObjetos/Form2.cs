@@ -18,7 +18,7 @@ namespace ProyectoEnClaseAgregarObjetos
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hola Mundo", "Saludo", MessageBoxButtons.YesNo);
-            MessageBox.Show("Adios Mundo", "Saludo", MessageBoxButtons.YesNo, MessageBoxIcon.Error);
+            MessageBox.Show("Adios mundo", "Saludo", MessageBoxButtons.YesNo, MessageBoxIcon.Error);
         }
     }
 }
